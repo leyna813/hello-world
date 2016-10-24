@@ -5,3 +5,6 @@ C:\Users\gliu2\Desktop\Train\ReflectionTest\bin\Debug\ReflectionTest.pdb
 C:\Users\gliu2\Desktop\Train\ReflectionTest\obj\Debug\ReflectionTest.csprojResolveAssemblyReference.cache
 C:\Users\gliu2\Desktop\Train\ReflectionTest\obj\Debug\ReflectionTest.exe
 C:\Users\gliu2\Desktop\Train\ReflectionTest\obj\Debug\ReflectionTest.pdb
+D:\myworkspace\hello-world\bin\Debug\ReflectionTest.exe.config
+D:\myworkspace\hello-world\obj\Debug\ReflectionTest.exe
+D:\myworkspace\hello-world\obj\Debug\ReflectionTest.pdb

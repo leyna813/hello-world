@@ -27,7 +27,7 @@ namespace ReflectionTest
 
             ////Define an Attribute and try to get it out from Democlass
             //GetSelfAttribute();
-
+           //change here
             Console.ReadKey();
         }
 
