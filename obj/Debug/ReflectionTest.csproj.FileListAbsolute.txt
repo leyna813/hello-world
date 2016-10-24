@@ -1,0 +1,7 @@
+c:\Users\jhuang11\documents\visual studio 2015\Projects\Train\ReflectionTest\bin\Debug\ReflectionTest.exe.config
+C:\Users\gliu2\Desktop\Train\ReflectionTest\bin\Debug\ReflectionTest.exe.config
+C:\Users\gliu2\Desktop\Train\ReflectionTest\bin\Debug\ReflectionTest.exe
+C:\Users\gliu2\Desktop\Train\ReflectionTest\bin\Debug\ReflectionTest.pdb
+C:\Users\gliu2\Desktop\Train\ReflectionTest\obj\Debug\ReflectionTest.csprojResolveAssemblyReference.cache
+C:\Users\gliu2\Desktop\Train\ReflectionTest\obj\Debug\ReflectionTest.exe
+C:\Users\gliu2\Desktop\Train\ReflectionTest\obj\Debug\ReflectionTest.pdb
